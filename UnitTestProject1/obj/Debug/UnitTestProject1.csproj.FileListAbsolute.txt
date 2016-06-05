@@ -1,0 +1,15 @@
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\Default.srprofile
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\SpecRun.SpecFlowPlugin.dll
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\TechTalk.SpecFlow.dll
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\TechTalk.SpecRun.dll
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\ClassLibrary1.pdb
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\SpecRun.SpecFlowPlugin.pdb
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\v_rymarev\Dropbox\work\projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
